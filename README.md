@@ -12,7 +12,7 @@
 # 2. 囤币策略 (HODLing Strategy)
 - 适合看好长期趋势的币
 ![image](https://github.com/miniwang617/Spread-Grid-Strategy/blob/main/strategy/囤币策略.png)
-![image](https://github.com/miniwang617/Spread-Grid-Strategy/blob/main/strategy/囤币成交记录.jpg)
+![image](https://github.com/miniwang617/Spread-Grid-Strategy/blob/main/strategy/囤币-成交记录.jpg)
 
 
 # 3. 做市接针策略 (Market Making)
