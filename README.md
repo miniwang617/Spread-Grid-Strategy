@@ -6,13 +6,18 @@
 - 适合震荡行情
   
 ![image](https://github.com/miniwang617/Spread-Grid-Strategy/blob/main/strategy/价差网格策略.png)
-![image](https://github.com/miniwang617/Spread-Grid-Strategy/blob/main/strategy/价差套利.png)
+![image](https://github.com/miniwang617/Spread-Grid-Strategy/blob/main/strategy/价差套利.jpg)
 
 
 # 2. 囤币策略 (HODLing Strategy)
 - 适合看好长期趋势的币
+![image](https://github.com/miniwang617/Spread-Grid-Strategy/blob/main/strategy/囤币策略.png)
+![image](https://github.com/miniwang617/Spread-Grid-Strategy/blob/main/strategy/囤币成交记录.jpg)
+
 
 # 3. 做市接针策略 (Market Making)
 - 捕捉市场快速上涨或下跌后的反弹机会
 - 在极端行情中提供流动性
 - 风险较高，需要严格止损
+![image](https://github.com/miniwang617/Spread-Grid-Strategy/blob/main/strategy/插针策略.png)
+
