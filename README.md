@@ -21,3 +21,4 @@
 - 风险较高，需要严格止损
 ![image](https://github.com/miniwang617/Spread-Grid-Strategy/blob/main/strategy/插针策略.png)
 
+如何联系我？ 邮箱：miniwang617@gmail.com 微信：mini61722
