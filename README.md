@@ -1,5 +1,7 @@
 # Spread-Grid-Strategy
 本项目包含三种量化交易策略（价差网格、囤币、做市接针）
+如需策略代码源码可以联系 邮箱：miniwang617@gmail.com 微信：mini61722
+
 # 1. 价差网格策略 (Spread Grid Trading)
 - 在价格波动区间内设置多个买卖网格
 - 低买高卖，赚取价差收益
