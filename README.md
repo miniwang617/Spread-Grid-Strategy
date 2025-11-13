@@ -5,8 +5,8 @@
 - 低买高卖，赚取价差收益
 - 适合震荡行情
   
-![image](https://github.com/miniwang617/Spread-Grid-Strategy/tree/main/strategy/价差网格策略.png)
-![image](https://github.com/miniwang617/Spread-Grid-Strategy/tree/main/strategy/价差套利.png)
+![image](https://github.com/miniwang617/Spread-Grid-Strategy/blob/main/strategy/价差网格策略.png)
+![image](https://github.com/miniwang617/Spread-Grid-Strategy/blob/main/strategy/价差套利.png)
 
 
 # 2. 囤币策略 (HODLing Strategy)
